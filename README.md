@@ -1,4 +1,4 @@
-<h1 align="center">❤️ Heart Disease Prediction</h1>
+<h1 align="center">❤️ Heart Disease Prediction ❤️</h1>
 
 <p align="center">
   🚀 Machine Learning Project | 📊 Classification Model | 🧠 Data Science
